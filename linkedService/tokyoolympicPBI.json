@@ -1,0 +1,10 @@
+{
+	"name": "tokyoolympicPBI",
+	"properties": {
+		"annotations": [],
+		"type": "PowerBIWorkspace",
+		"typeProperties": {
+			"tenantID": "e533dad4-2264-4916-89b7-3d71068e8d4b"
+		}
+	}
+}
